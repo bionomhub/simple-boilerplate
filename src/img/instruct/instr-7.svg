@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600px" height="600px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 600 600"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#009291;stroke-width:20.83;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil2 {fill:#009291}
+    .fil1 {fill:#519190}
+    .fil3 {fill:#7DD7C8}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="296.39" cy="327.61" r="235.89"/>
+  <rect class="fil1" x="281.01" y="28.34" width="30.75" height="63.38"/>
+  <rect class="fil2" x="253.81" y="22.09" width="85.16" height="31.69" rx="42.58" ry="6.11"/>
+  <path class="fil2" d="M387.11 110l20.41 8.22 10.14 -25.18 7.54 3.04c5.79,2.33 12.43,-0.5 14.76,-6.28l0 0c2.33,-5.79 -0.5,-12.43 -6.28,-14.76l-35.49 -14.29c-5.79,-2.33 -12.43,0.49 -14.76,6.28l0 0c-2.33,5.78 0.5,12.42 6.28,14.75l7.54 3.04 -10.14 25.18z"/>
+  <circle class="fil2" cx="296.39" cy="327.61" r="18.14"/>
+  <path class="fil3" d="M296.39 327.61l0 -196.11c0,0 95.05,-24.94 174.78,99.8l-174.78 96.31z"/>
+  <rect class="fil2" x="287.32" y="112.23" width="18.14" height="45.34" rx="9.07" ry="9.07"/>
+  <rect class="fil2" x="287.32" y="497.65" width="18.14" height="45.34" rx="9.07" ry="9.07"/>
+  <rect class="fil2" transform="matrix(0 1.09192 -1.09192 0 512.496 318.514)" width="16.67" height="41.67" rx="8.33" ry="8.33"/>
+  <rect class="fil2" transform="matrix(0 1.09192 -1.09192 0 125.772 318.514)" width="16.67" height="41.67" rx="8.33" ry="8.33"/>
+  <path class="fil2" d="M302.37 344.74l183.58 -123.72 -201.14 92.64 17.56 31.08z"/>
+ </g>
+</svg>
